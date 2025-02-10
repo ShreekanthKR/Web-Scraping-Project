@@ -28,11 +28,6 @@ Ensure you have Python installed and install required dependencies:
 
 pip install pandas numpy scikit-learn nltk matplotlib wordcloud
 
-Clone the Repository
-
-git clone https://github.com/yourusername/amazon-reviews-sentiment.git
-cd amazon-reviews-sentiment
-
 Run the Script
 
 python sentiment_analysis.py
@@ -57,9 +52,6 @@ The model will be trained and tested using Logistic Regression.
 
 The accuracy score and confusion matrix will be displayed.
 
-Demo
-
-(Add screenshots or a GIF showing model output and Word Cloud visualizations.)
 
 Technologies Used
 
